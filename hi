@@ -14,6 +14,7 @@
     "id": "Y12",
     "models": [
       { "name": "Vivo Y12", "img": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y12.jpg" },
+      { "name": "Samsung Galaxy A50", "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a50-sm-a505f-ds.jpg" },
       { "name": "Vivo Y15", "img": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y15-new.jpg" },
       { "name": "Vivo Y17", "img": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y17.jpg" },
       { "name": "Vivo U10", "img": "https://fdn2.gsmarena.com/vv/bigpic/vivo-u10-.jpg" },
